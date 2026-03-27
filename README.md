@@ -34,14 +34,18 @@ This mimics a **swarm of coding agents**, where each step contributes to refinin
 
 
 
- 📂 Project Structure
+## 📂 Project Structure
 
 
 
 ├── main.py              # Controls the Karpathy Loop
+
 ├── test_code.py         # Unit tests
+
 ├── generated_code.py    # Auto-generated code (created during runtime)
+
 ├── .env                 # API key (not included in repo)
+
 ├── .gitignore
 
 
