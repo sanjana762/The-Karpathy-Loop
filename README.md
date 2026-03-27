@@ -2,16 +2,15 @@ Perfect 👍 — here is your **final, clean, properly formatted README.md** (re
 
 ---
 
-# 📘 Complete README.md
+📘 Complete README.md
 
-```markdown
-# Karpathy Loop: Autonomous Code Optimization with AI Agents
+Karpathy Loop: Autonomous Code Optimization with AI Agents
 
 This project demonstrates a simplified implementation of the **Karpathy Loop**, a feedback-driven system where code is continuously generated, tested, and improved. The system simulates a swarm of AI agents working together to automate software development tasks.
 
----
 
-## 🚀 Features
+
+ 🚀 Features
 
 - 🔁 Iterative code generation, testing, and improvement  
 - 🧪 Automated unit testing using pytest  
@@ -21,7 +20,7 @@ This project demonstrates a simplified implementation of the **Karpathy Loop**, 
 
 ---
 
-## 🧠 How It Works
+ 🧠 How It Works
 
 The system follows a continuous feedback loop:
 
@@ -33,11 +32,11 @@ The system follows a continuous feedback loop:
 
 This mimics a **swarm of coding agents**, where each step contributes to refining the solution.
 
----
 
-## 📂 Project Structure
 
-```
+ 📂 Project Structure
+
+
 
 ├── main.py              # Controls the Karpathy Loop
 ├── test_code.py         # Unit tests
@@ -45,11 +44,11 @@ This mimics a **swarm of coding agents**, where each step contributes to refinin
 ├── .env                 # API key (not included in repo)
 ├── .gitignore
 
-````
 
----
 
-## ⚙️ Setup Instructions
+
+
+ ⚙️ Setup Instructions
 
 ### 1. Clone the repository
 
