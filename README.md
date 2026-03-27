@@ -40,6 +40,7 @@ This mimics a **swarm of coding agents**, where each step contributes to refinin
    pip install openai python-dotenv pytest
 3.Create a .env file:
     OPENAI_API_KEY=your_api_key_here
+    
 4.Run the project:
- ```bash
-    python main.py
+  ```bash
+  python main.py
